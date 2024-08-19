@@ -4,6 +4,12 @@ RM视觉方向开源项目整理
 感谢各位开源推动RM视觉技术进步，欢迎大家贡献
 |学校|年份|内容|链接|备注|
 |:-:|:-:|:-:|:-:|:-:|
+|天大|2024|自瞄|https://github.com/HHgzs/TJURM-2024||
+|天大|2024|视觉框架|https://github.com/HHgzs/OpenRM-2024||
+|哈工深|2024|雷达站|https://github.com/chenx-dust/PointCloudDetector||
+|东大|2024|雷达站| https://github.com/T-DT-Algorithm-2024/T-DT-2024-Radar||
+|哈工大|2024|雷达站|https://github.com/zmsbruce/rm_radar||
+|哈工大|2024|打符|https://github.com/zmsbruce/rm_power_rune||
 |华师|2024|视觉框架|https://github.com/FaterYU/rm_vision|rv基础上做的改进|
 |深大|2024|装甲板识别|https://github.com/broalantaps/RP24-DetectionModel||
 |厦理|2024|雷达站|https://gitee.com/Carryzhangzky/pfa_vision_radar||
